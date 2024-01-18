@@ -4,7 +4,7 @@ Welcome to this awesome repository! 🚀 Here, you'll discover a fully customiza
 
 ## 🌈 Getting Started
 
-1. **Fork this repository** 🍴: Click on the "Fork" button at the top right to create your own copy.
+1. **Fork this repository** 🍴: Click on the "Fork" button at the top right to create your own copy. 
 
 2. **Update the README** 📝: Open the README.md file, where you'll find a template with easy instructions. Just swap out the placeholder information with your own details and delete anything you don't need.
 
